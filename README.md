@@ -3,7 +3,7 @@
 **Last updated: 2024-07-06**
 
 ## Usage Agreement
-By inviting the Discord Bot **Spector** (Unique discord user ID 1250185909199175692, hereby referred to as "bot") to a Discord Server ("server"), or by using its features, you agree to the below listed Terms of Service ("terms") and Privacy Policy ("policy").
+By inviting the Discord Bot **Spector**#7362 (Unique discord user ID 1250185909199175692, hereby referred to as "bot") to a Discord Server ("server"), or by using its features, you agree to the below listed Terms of Service ("terms") and Privacy Policy ("policy").
 
 You may invite the bot to a server you have sufficient permissions for and use its sets of features on any server you share with it. This privilege can be revoked and the bot removed from the server at any time should you violate these terms and/or policy, the Terms of Service and/or Privacy Policy of Discord Inc., or their Community Guidelines.
 
